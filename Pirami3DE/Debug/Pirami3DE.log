@@ -1,0 +1,8 @@
+﻿  Origem.cpp
+C:\Users\Kaio Arakawa\source\repos\Pirami3DE\Origem.cpp(83,25): warning C4305:  'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Kaio Arakawa\source\repos\Pirami3DE\Origem.cpp(88,25): warning C4305:  'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Kaio Arakawa\source\repos\Pirami3DE\Origem.cpp(93,25): warning C4305:  'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Kaio Arakawa\source\repos\Pirami3DE\Origem.cpp(100,12): warning C4244:  'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Pirami3DE\Origem.cpp(101,12): warning C4244:  'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Pirami3DE\Origem.cpp(104,25): warning C4305:  'argumento': truncamento de 'double' para 'GLfloat'
+  Pirami3DE.vcxproj -> C:\Users\Kaio Arakawa\source\repos\Pirami3DE\Debug\Pirami3DE.exe

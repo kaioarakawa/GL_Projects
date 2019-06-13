@@ -1,0 +1,13 @@
+﻿  Origem.cpp
+C:\Users\Kaio Arakawa\source\repos\BOLINHA\Origem.cpp(46,17): warning C4244:  '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\BOLINHA\Origem.cpp(47,17): warning C4244:  '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\BOLINHA\Origem.cpp(49,18): warning C4244:  '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\BOLINHA\Origem.cpp(65,22): warning C4244:  '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\BOLINHA\Origem.cpp(66,41): warning C4244:  'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\BOLINHA\Origem.cpp(66,23): warning C4244:  'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\BOLINHA\Origem.cpp(70,29): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\BOLINHA\Origem.cpp(70,20): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\BOLINHA\Origem.cpp(75,22): warning C4244:  '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\BOLINHA\Origem.cpp(76,41): warning C4244:  'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\BOLINHA\Origem.cpp(76,23): warning C4244:  'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+  BOLINHA.vcxproj -> C:\Users\Kaio Arakawa\source\repos\BOLINHA\Debug\BOLINHA.exe

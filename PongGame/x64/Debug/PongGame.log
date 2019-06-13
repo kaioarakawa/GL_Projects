@@ -1,0 +1,25 @@
+﻿  Origem.cpp
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(26,24): warning C4244:  'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(28,17): warning C4244:  'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(29,17): warning C4244:  'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(92,87): warning C4244:  'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(92,83): warning C4244:  'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(92,79): warning C4244:  'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(92,64): warning C4244:  'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(92,48): warning C4244:  'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(93,85): warning C4244:  'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(93,81): warning C4244:  'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(93,77): warning C4244:  'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(93,62): warning C4244:  'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(93,46): warning C4244:  'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(126,18): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(126,15): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(126,12): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(136,17): warning C4305:  'inicializando': truncamento de 'double' para 'float'
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(138,44): warning C4244:  'argumento': conversão de '__int64' para 'GLdouble', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(138,24): warning C4244:  'argumento': conversão de '__int64' para 'GLdouble', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(208,23): warning C4244:  '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(209,22): warning C4244:  '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(216,23): warning C4244:  '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\PongGame\Origem.cpp(217,22): warning C4244:  '=': conversão de 'int' para 'float', possível perda de dados
+  PongGame.vcxproj -> C:\Users\Kaio Arakawa\source\repos\PongGame\x64\Debug\PongGame.exe

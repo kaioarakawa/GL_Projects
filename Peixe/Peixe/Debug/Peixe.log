@@ -1,0 +1,10 @@
+﻿  Origem.cpp
+c:\users\usuário\source\repos\peixe\peixe\origem.cpp(121): warning C4244: 'argumento': conversão de 'float' para 'GLubyte', possível perda de dados
+c:\users\usuário\source\repos\peixe\peixe\origem.cpp(133): warning C4244: 'argumento': conversão de 'float' para 'GLubyte', possível perda de dados
+c:\users\usuário\source\repos\peixe\peixe\origem.cpp(136): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\usuário\source\repos\peixe\peixe\origem.cpp(148): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\usuário\source\repos\peixe\peixe\origem.cpp(162): warning C4244: 'inicializando': conversão de 'GLfloat' para 'int', possível perda de dados
+c:\users\usuário\source\repos\peixe\peixe\origem.cpp(171): warning C4244: 'inicializando': conversão de 'GLfloat' para 'int', possível perda de dados
+c:\users\usuário\source\repos\peixe\peixe\origem.cpp(192): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\usuário\source\repos\peixe\peixe\origem.cpp(204): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+  Peixe.vcxproj -> C:\Users\Usuário\source\repos\Peixe\Debug\Peixe.exe

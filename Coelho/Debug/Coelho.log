@@ -1,0 +1,61 @@
+﻿  Origem.cpp
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(38): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(41): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(42): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(49): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(52): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(53): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(60): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(63): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(64): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(70): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(73): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(74): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(80): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(83): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(84): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(90): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(93): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(94): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(100): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(103): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(104): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(115): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(116): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(125): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(126): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(135): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(136): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(146): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(147): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(156): warning C4244: 'inicializando': conversão de 'GLfloat' para 'int', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(157): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(158): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(166): warning C4244: 'inicializando': conversão de 'GLfloat' para 'int', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(167): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(168): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(186): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(187): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(197): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(198): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(206): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(209): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(210): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(219): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(220): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(226): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(229): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(230): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(239): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(240): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(250): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(251): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(274): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(275): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(298): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(301): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(302): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(309): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(312): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\Coelho\Origem.cpp(313): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+  Coelho.vcxproj -> C:\Users\Kaio Arakawa\source\repos\Coelho\Debug\Coelho.exe
