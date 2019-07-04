@@ -1,0 +1,36 @@
+﻿  Origem.cpp
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(17,20): warning C4244:  'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(89,9): warning C4244:  'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(90,9): warning C4244:  'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(92,9): warning C4244:  '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(93,9): warning C4244:  '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(97,19): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(97,15): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(98,19): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(98,15): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(99,19): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(99,15): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(100,19): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(100,15): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(113,48): warning C4244:  'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(113,32): warning C4244:  'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(119,8): warning C4244:  '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(120,8): warning C4244:  '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(123,33): warning C4244:  'argumento': conversão de '__int64' para 'GLdouble', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(126,25): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(127,25): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(128,25): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(129,25): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(133,25): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(134,25): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(135,25): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(136,25): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(141,22): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(142,22): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(143,22): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(144,22): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(149,25): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(150,25): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(151,25): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\Kaio Arakawa\source\repos\FreeWay\Origem.cpp(152,25): warning C4244:  'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+  FreeWay.vcxproj -> C:\Users\Kaio Arakawa\source\repos\FreeWay\Debug\FreeWay.exe
